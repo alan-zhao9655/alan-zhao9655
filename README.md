@@ -35,7 +35,7 @@
 
 ## ⚙️ GitHub Analytics
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-zhao9655&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-zhao9655&count_private=true&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-zhao9655&exclude_repo=alan-zhao9655.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
